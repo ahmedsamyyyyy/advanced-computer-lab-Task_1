@@ -52,7 +52,7 @@ Noha's groups:
 
 Nada's groups:
  ```
- mongodb+srv://atlasDB:atlasDB@cluster0.vt5cm.mongodb.net/test
+ mongodb+srv://atlasDB:atlasDB@cluster0.vt5cm.mongodb.net/
 ```
 
 Mabrouk's groups:
